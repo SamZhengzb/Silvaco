@@ -1,1 +1,1 @@
-this files are my learning about diode by using Silvaco TCAD 
+these files are my learning about diode by using Silvaco TCAD 
